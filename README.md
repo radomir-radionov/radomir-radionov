@@ -41,7 +41,7 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/redux.svg" width="48" height="48" alt="Redux Logo" />
+        <img src="./img/redux.png" width="48" height="48" alt="Redux Logo" />
       </a>
       <br>Redux
     </td>
