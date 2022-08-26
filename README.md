@@ -11,7 +11,7 @@ I'm a Front-end React Developer.
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/html5.svg" width="48" height="48" alt="html5" />
       </a>
       <br>HTML5
     </td>
