@@ -57,7 +57,7 @@ I'm a Front-end React Developer.
       </a>
       <br>Sass
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/git.svg" width="48" height="48" alt="Git Logo" />
       </a>
@@ -119,7 +119,7 @@ I'm a Front-end React Developer.
       </a>
       <br>Thanos
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
