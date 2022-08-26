@@ -11,31 +11,31 @@ I'm a Front-end React Developer.
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/html5.svg" width="48" height="48" alt="html5" />
+        <img src="./img/html5.svg" width="48" height="48" alt="HTML5 Logo" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/css3.svg" width="48" height="48" alt="CSS3 Logo" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript Logo" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://jsonnet.org/img/typescript.svg" width="48" height="48" alt="TypeScript Logo" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/react.svg" width="48" height="48" alt="React Logo" />
       </a>
       <br>React
     </td>
