@@ -29,7 +29,7 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/typescript.svg" width="48" height="48" alt="TypeScript Logo" />
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript Logo" />
       </a>
       <br>TypeScript
     </td>
