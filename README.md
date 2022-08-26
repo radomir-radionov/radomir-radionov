@@ -49,7 +49,7 @@ I'm a Front-end React Developer.
       <a href="#macropower-tech">
         <img src="./img/redux-saga.svg" width="48" height="48" alt="Redux-Saga Logo" />
       </a>
-      <br>Sass
+      <br>Redux-Saga
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -63,14 +63,8 @@ I'm a Front-end React Developer.
       </a>
       <br>Sass
     </td>
-<!--     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/git.svg" width="48" height="48" alt="Git Logo" />
-      </a>
-      <br>Git
-    </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/sass.svg" width="48" height="48" alt="Sass Logo" />
