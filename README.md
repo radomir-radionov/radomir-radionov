@@ -59,7 +59,7 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass.png" width="48" height="48" alt="Sass Logo" />
+        <img src="./img/sass.svg" width="48" height="48" alt="Sass Logo" />
       </a>
       <br>Sass
     </td>
