@@ -41,35 +41,35 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/redux.png" width="48" height="48" alt="Redux Logo" />
       </a>
-      <br>JavaScript
+      <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/git.svg" width="48" height="48" alt="Git Logo" />
       </a>
-      <br>React
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/sass.png" width="48" height="48" alt="Sass Logo" />
       </a>
       <br>Sass
+    </td>
+<!--     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/git.svg" width="48" height="48" alt="Git Logo" />
+      </a>
+      <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/sass.svg" width="48" height="48" alt="Sass Logo" />
       </a>
-      <br>Docker
+      <br>Sass
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -119,7 +119,7 @@ I'm a Front-end React Developer.
       </a>
       <br>Thanos
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
