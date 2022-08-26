@@ -1,6 +1,10 @@
 ### Hello World 👋
 
-I'm a Front-end React Developer.  
+I'm a Front-end React Developer.
+
+Junior specialist in IT with a big wish to work, learn and develop. My approach is full understanding  
+a process of entire software development lifecycle. I aim to write clean, scalable and easy to testing code,  
+only latest technologies.
 
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
