@@ -13,31 +13,31 @@ I'm a Front-end React Developer.
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
