@@ -49,7 +49,7 @@ I'm a Front-end React Developer.
       <a href="#macropower-tech">
         <img src="./img/redux-saga.svg" width="48" height="48" alt="Redux-Saga Logo" />
       </a>
-      <br>Redux-Saga
+      <br>Saga
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
