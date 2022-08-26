@@ -64,14 +64,14 @@ I'm a Front-end React Developer.
       <br>Sass
     </td>
   </tr>
-<!--   <tr>
+  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass Logo" />
+        <img src="./img/styled-components.svg" width="48" height="48" alt="Styled Components Logo" />
       </a>
-      <br>Sass
+      <br>Styled-Components
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
@@ -118,8 +118,8 @@ I'm a Front-end React Developer.
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
       </a>
       <br>Thanos
-    </td>
-  </tr> -->
+    </td> -->
+  </tr>
 </table>
 
 
