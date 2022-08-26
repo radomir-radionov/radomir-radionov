@@ -55,7 +55,7 @@ only latest technologies.
       <a href="#macropower-tech">
         <img src="./img/redux-saga.svg" width="48" height="48" alt="Redux-Saga Logo" />
       </a>
-      <br>Saga
+      <br>Redux Saga
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
