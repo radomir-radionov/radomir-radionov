@@ -69,7 +69,7 @@ I'm a Front-end React Developer.
       <a href="#macropower-tech" >
         <img src="./img/styled-components.svg" width="48" height="48" alt="Styled Components Logo" />
       </a>
-      <br>Styled-Components
+      <br>Styled Components
     </td>
 <!--     <td align="center" width="96">
       <a href="#macropower-tech" >
