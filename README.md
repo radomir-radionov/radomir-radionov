@@ -41,21 +41,21 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript Logo" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React Logo" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/redux.svg" width="48" height="48" alt="Redux Logo" />
       </a>
       <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/git.svg" width="48" height="48" alt="Git Logo" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass.png" width="48" height="48" alt="Sass Logo" />
+      </a>
+      <br>Sass
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
