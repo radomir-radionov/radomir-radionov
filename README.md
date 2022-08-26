@@ -41,35 +41,35 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript Logo" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/react-original.svg" width="48" height="48" alt="React Logo" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/redux.svg" width="48" height="48" alt="Redux Logo" />
       </a>
-      <br>Bootstrap
+      <br>Redux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/git.svg" width="48" height="48" alt="Git Logo" />
       </a>
-      <br>Sass
+      <br>Git
     </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/sass.svg" width="48" height="48" alt="Sass Logo" />
       </a>
-      <br>Docker
+      <br>Sass
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
