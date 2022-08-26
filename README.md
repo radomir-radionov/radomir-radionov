@@ -2,8 +2,6 @@
 
 I'm a Front-end React Developer.  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radomir-radionov/)](https://www.linkedin.com/in/radomir-radionov/)
-
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
