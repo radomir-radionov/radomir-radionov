@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World 👋
+
+I'm a Front-end React Developer.  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/radomir-radionov/)](https://www.linkedin.com/in/radomir-radionov/)
 
 <!--
 **radomir-radionov/radomir-radionov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
