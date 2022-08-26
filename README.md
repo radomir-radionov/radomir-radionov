@@ -41,9 +41,15 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/redux.png" width="48" height="48" alt="Redux Logo" />
+        <img src="./img/redux.svg" width="48" height="48" alt="Redux Logo" />
       </a>
       <br>Redux
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/redux-saga.svg" width="48" height="48" alt="Redux-Saga Logo" />
+      </a>
+      <br>Saga
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
@@ -53,18 +59,12 @@ I'm a Front-end React Developer.
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass.png" width="48" height="48" alt="Sass Logo" />
+        <img src="./img/sass.svg" width="48" height="48" alt="Sass Logo" />
       </a>
       <br>Sass
     </td>
-<!--     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/git.svg" width="48" height="48" alt="Git Logo" />
-      </a>
-      <br>Git
-    </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="./img/sass.svg" width="48" height="48" alt="Sass Logo" />
