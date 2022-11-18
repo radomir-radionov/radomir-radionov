@@ -2,9 +2,7 @@
 
 I'm a Front-end React Developer.
 
-Junior specialist in IT with a big wish to work, learn and develop. My approach is full understanding  
-a process of entire software development lifecycle. I aim to write clean, scalable and easy to testing code,  
-only latest technologies.
+Junior specialist in Front-end Development, who creates clean, scalable and easy to testing UI using React . My approach is fully understanding a process of the entire software development lifecycle. My goal is creating amazing apps that make people's lives easier.
 
 
 <h2 align="left" id="macropower-tech">Tech Stack</h2>
