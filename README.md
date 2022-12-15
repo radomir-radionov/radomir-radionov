@@ -5,7 +5,7 @@ I'm a Front-end React Developer.
 Junior specialist in Front-end Development, who creates clean, scalable and easy to testing UI using React . My approach is fully understanding a process of the entire software development lifecycle. My goal is creating amazing apps that make people's lives easier.
 
 
-<h2 align="left" id="macropower-tech">Tech Stack</h2>
+<h2 align="left" id="macropower-tech">Skills</h2>
 
 > Tools, languages, and other things that I like to work with.
 
