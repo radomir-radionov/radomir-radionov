@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm a Software Developer.
+I'm a Software Developer
 
 Certified specialist in Software Development, who creates clean, scalable and easy to testing UI/UX using React. I can architect and implement scalable backend systems that handle large volumes of data and provide reliable performance. My approach is fully understanding a process of the entire software development lifecycle. My goal is creating amazing apps that make people's lives easier.
 
