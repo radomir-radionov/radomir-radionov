@@ -10,6 +10,12 @@ Certified specialist in Software Development, who creates clean, scalable and ea
 
 <table>
   <tr>
+     <td align="center" width="86">
+      <a href="#">
+        <img src="./img/typescript.svg" width="38" height="38" alt="TypeScript Logo" />
+      </a>
+      <br>TypeScript
+    </td>
     <td align="center" width="86">
       <a href="#">
         <img src="./img/react.svg" width="38" height="38" alt="React Logo" />
@@ -27,12 +33,6 @@ Certified specialist in Software Development, who creates clean, scalable and ea
         <img src="./img/redux-saga.svg" width="48" height="38" alt="Redux-Saga Logo" />
       </a>
       <br>Saga
-    </td>
-    <td align="center" width="86">
-      <a href="#">
-        <img src="./img/typescript.svg" width="38" height="38" alt="TypeScript Logo" />
-      </a>
-      <br>TypeScript
     </td>
     <td align="center" width="86">
       <a href="#" >
