@@ -12,6 +12,12 @@ Certified specialist in Software Development, who creates clean, scalable and ea
   <tr>
      <td align="center" width="86">
       <a href="#">
+        <img src="./img/logo-javascript.svg" width="38" height="38" alt="JavaScript Logo" />
+      </a>
+      <br>JavaScript
+    </td>
+     <td align="center" width="86">
+      <a href="#">
         <img src="./img/typescript.svg" width="38" height="38" alt="TypeScript Logo" />
       </a>
       <br>TypeScript
