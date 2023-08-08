@@ -60,5 +60,11 @@ Certified specialist in Software Development, who creates clean, scalable and ea
       </a>
       <br>Express.js
     </td>
+     <td align="center" width="86">
+      <a href="#">
+        <img src="./img/docker.svg" width="68" height="48" alt="Docker Logo" />
+      </a>
+      <br>Docker
+    </td>
   </tr> 
 </table>
