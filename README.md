@@ -62,6 +62,12 @@ Certified specialist in Software Development, who creates clean, scalable and ea
     </td>
      <td align="center" width="86">
       <a href="#">
+        <img src="./img/postgresql.svg" width="68" height="48" alt="PostgreSQL Logo" />
+      </a>
+      <br>PostgreSQL
+    </td>
+     <td align="center" width="86">
+      <a href="#">
         <img src="./img/docker.svg" width="68" height="48" alt="Docker Logo" />
       </a>
       <br>Docker
