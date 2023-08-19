@@ -62,6 +62,12 @@ Certified specialist in Software Development, who creates clean, scalable and ea
     </td>
      <td align="center" width="86">
       <a href="#">
+        <img src="./img/koa.svg" width="68" height="48" alt="Express.js Logo" />
+      </a>
+      <br>Koa.js
+    </td>
+     <td align="center" width="86">
+      <a href="#">
         <img src="./img/postgresql.svg" width="68" height="48" alt="PostgreSQL Logo" />
       </a>
       <br>PostgreSQL
